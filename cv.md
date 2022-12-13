@@ -20,5 +20,3 @@ I'm a second-year student of RSHU in St. Petersburg. Qute dissapointed in Russia
 Russian - native
 
 English - C1-C2 
-
-Japanese - a little bit
